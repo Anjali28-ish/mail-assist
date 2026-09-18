@@ -48,18 +48,8 @@ Select the mail-assist-extension folder
 
 ## 📸 Preview
 
-### Web Application
-
-<img src="images/home.png" width="900"/>
-
-<br>
-
-### AI Generated Reply
-
-<img src="images/reply.png" width="900"/>
-
-<br>
-
-### Chrome Extension
-
-<img src="images/extension.png" width="900"/>
+<p align="center">
+  <img src="images/home.png" width="32%" />
+  <img src="images/reply.png" width="32%" />
+  <img src="images/extension.png" width="32%" />
+</p>
