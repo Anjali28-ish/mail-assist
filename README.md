@@ -1,4 +1,5 @@
 Mail Assist
+
 An AI-powered email assistant that generates professional, context-aware email replies using LLMs. The project consists of a React frontend, Spring Boot backend, and a Chrome Extension for generating replies directly inside Gmail.
 
 ✨ Features
