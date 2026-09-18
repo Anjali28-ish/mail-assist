@@ -46,8 +46,20 @@ Click Load Unpacked
 
 Select the mail-assist-extension folder
 
-📸 Preview
-Add screenshots of the web application and Gmail extension here.
+## 📸 Preview
 
-👤 Author
-Anjali Mishra
+### Web Application
+
+<img src="images/home.png" width="900"/>
+
+<br>
+
+### AI Generated Reply
+
+<img src="images/reply.png" width="900"/>
+
+<br>
+
+### Chrome Extension
+
+<img src="images/extension.png" width="900"/>
